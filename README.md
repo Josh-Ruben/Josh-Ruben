@@ -5,12 +5,19 @@ Welcome! I'm a software developer and website designer who loves building useful
 ---
 
 ## About Me
-- 🔭 I’m currently working on:Differentially Private Threat Intelligence Analytics at Scale 
-- 🌱 I’m currently learning: *add topics (e.g., "systems programming with Rust, advanced React patterns")*
-- 💬 Ask me about: *favorite topics you can help with (e.g., "web performance, APIs, automation")*
-- 📫 Email: joshruben16@gmail.com (optionally replace or remove if you prefer not to publish email)
-- ⚡ Fun fact: *one-liner (e.g., "I love mechanical keyboards and coffee")*
+- ## 🔗 About Me
 
+- 👨‍💻 I'm an IT student passionate about **Artificial Intelligence, Software Development, and Cybersecurity**.
+
+- 🔭 I'm currently working on **Differentially Private Threat Intelligence Analytics at Scale**.
+
+- 🌱 I'm currently learning **Agentic AI Systems, Python, and Cloud Technologies**.
+
+- 💬 Ask me about **AI, Applications, Backend Development, and Technology**.
+
+- 📫 Reach me at **your-email@example.com**.
+
+- ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**.
 ---
 ## Languages and Tools ##
 
