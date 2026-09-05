@@ -33,7 +33,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ☕
 
-## 🔗 Support:
+## 🔗 Support
 
 <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
