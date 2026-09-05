@@ -12,7 +12,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 - ⚡ Fun fact: *one-liner (e.g., "I love mechanical keyboards and coffee")*
 
 ---
-##Languages and Tools
+## Languages and Tools##
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -33,7 +33,11 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ☕
 
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy me a coffee" width="370">
+## 🔗 Support:
+
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+</a>
 
 
 ## Featured Projects
