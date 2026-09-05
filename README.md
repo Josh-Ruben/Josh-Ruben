@@ -57,7 +57,7 @@ Working on Differentially Private Threat Intelligence Analytics at Scale
 
 
 ## Currently
-I’m currently working on: **AI, Software Development & Cybersecurity projects**
+Working on: **AI, Software Development & Cybersecurity projects**
 
 I’m currently learning: **Artificial Intelligence, Cloud Computing & Advanced Technologies**
 
