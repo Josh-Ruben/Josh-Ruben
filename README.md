@@ -33,7 +33,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ## 🔗 Support:
 
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee">
 
 ## Featured Projects
 Working on Differentially Private Threat Intelligence Analytics at Scale
