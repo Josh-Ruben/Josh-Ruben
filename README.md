@@ -7,17 +7,17 @@ Welcome! I'm a software developer and website designer who loves building useful
 ## About Me
 - ## 🔗 About Me
 
-- 👨‍💻 I'm an IT student passionate about **Artificial Intelligence, Software Development, and Cybersecurity**.
+- 👨‍💻 I'm an IT student passionate about **Artificial Intelligence, Software Development, and Cybersecurity**
 
-- 🔭 I'm currently working on **Differentially Private Threat Intelligence Analytics at Scale**.
+- 🔭 I'm currently working on **Differentially Private Threat Intelligence Analytics at Scale**
 
-- 🌱 I'm currently learning **Agentic AI Systems, Python, and Cloud Technologies**.
+- 🌱 I'm currently learning **Agentic AI Systems, Python, and Cloud Technologies**
 
-- 💬 Ask me about **AI, Applications, Backend Development, and Technology**.
+- 💬 Ask me about **AI, Applications, Backend Development, and Technology**
 
-- 📫 Reach me at **joshruben16@gcom**.
+- 📫 Reach me at **joshruben16@gcom**
 
-- ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**.
+- ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**
 ---
 ## Languages and Tools ##
 
