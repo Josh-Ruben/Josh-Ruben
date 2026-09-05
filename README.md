@@ -5,7 +5,6 @@ Welcome! I'm a software developer and website designer who loves building useful
 ---
 
 ## About Me
-- ## 🔗 About Me
 
 - 👨‍💻 I'm an IT student passionate about **Artificial Intelligence, Software Development, and Cybersecurity**
 
