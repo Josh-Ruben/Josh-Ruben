@@ -49,7 +49,7 @@ Working on Differentially Private Threat Intelligence Analytics at Scale
 * AWS Generative AI & AI Agents with Amazon Bedrock
 * Amazon Bedrock Customization, Optimization & Automation
 
-* 
+
 ## Currently
 - Working on: *project or learning goal*
 - Looking for: *collaboration, job opportunities, feedback, etc
