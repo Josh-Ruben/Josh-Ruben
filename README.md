@@ -56,9 +56,9 @@ Working on Differentially Private Threat Intelligence Analytics at Scale
 * Amazon Bedrock Customization, Optimization & Automation
 
 
-## Currently
-Working on: **AI, Software Development & Cybersecurity projects**
+## Focus&Intrests
+Current Focus : **AI, Software Development & Cybersecurity projects**
 
-I’m currently learning: **Artificial Intelligence, Cloud Computing & Advanced Technologies**
+Learning : **Artificial Intelligence, Cloud Computing & Advanced Technologies**
 
-- 🤝 I’m looking for: **Collaboration, internship opportunities and interesting projects**
+🤝 Open to : **Collaboration, internship opportunities and interesting projects**
