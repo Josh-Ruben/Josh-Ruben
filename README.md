@@ -57,6 +57,8 @@ Working on Differentially Private Threat Intelligence Analytics at Scale
 
 
 ## Currently
-- Working on: *project or learning goal*
-- Looking for: *collaboration, job opportunities, feedback, etc
----
+I’m currently working on: **AI, Software Development & Cybersecurity projects**
+
+I’m currently learning: **Artificial Intelligence, Cloud Computing & Advanced Technologies**
+
+- 🤝 I’m looking for: **Collaboration, internship opportunities and interesting projects**
