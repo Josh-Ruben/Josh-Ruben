@@ -31,11 +31,9 @@ Welcome! I'm a software developer and website designer who loves building useful
 ![Microsoft%20SQL%20Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-## ☕ Support
+## 🔗 Support:
 
-<a href="https://www.buymeacoffee.com/JoshRuben">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
-</a>
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee">
 
 ## Featured Projects
 Working on Differentially Private Threat Intelligence Analytics at Scale
