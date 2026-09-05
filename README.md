@@ -41,7 +41,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 Working on [Differentially Private Threat Intelligence Analytics at Scale]
 ---
 ## Certificate 
-    Google Data Analytics – Foundations: Data, Data, Everywhere
+Google Data Analytics – Foundations: Data, Data, Everywhere
 * AWS Generative AI for Developers
 * AWS Generative AI & AI Agents with Amazon Bedrock
 * Amazon Bedrock Customization, Optimization & Automation
