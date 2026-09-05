@@ -15,7 +15,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 - 💬 Ask me about **AI, Applications, Backend Development, and Technology**.
 
-- 📫 Reach me at **your-email@example.com**.
+- 📫 Reach me at **joshruben16@gcom**.
 
 - ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**.
 ---
