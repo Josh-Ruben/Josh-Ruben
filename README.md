@@ -31,9 +31,9 @@ Welcome! I'm a software developer and website designer who loves building useful
 ![Microsoft%20SQL%20Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-<h2>🔗 Support:</h2>
+☕
 
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy me a coffee" width="400">
+<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy me a coffee" width="370">
 
 
 ## Featured Projects
