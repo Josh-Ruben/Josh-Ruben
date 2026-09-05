@@ -57,8 +57,8 @@ Working on Differentially Private Threat Intelligence Analytics at Scale
 
 
 ## Focus&Intrests
-Current Focus : **AI, Software Development & Cybersecurity projects**
+• Current Focus : **AI, Software Development & Cybersecurity projects**
 
-Learning : **Artificial Intelligence, Cloud Computing & Advanced Technologies**
+• : **Artificial Intelligence, Cloud Computing & Advanced Technologies**
 
 🤝 Open to : **Collaboration, internship opportunities and interesting projects**
