@@ -37,10 +37,11 @@ Welcome! I'm a software developer and website designer who loves building useful
 ![Microsoft%20SQL%20Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
-## <h2>🔗 Support:</h2>
+## <h2> Support</h2>
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+<a href="https://buymeacoffee.com/rube">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rube&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
+       alt="Buy Me A Coffee">
 </a>
 
 ## Featured Projects
