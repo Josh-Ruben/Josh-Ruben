@@ -40,8 +40,9 @@ Welcome! I'm a software developer and website designer who loves building useful
 ## <h2> Support</h2>
 
 <a href="https://buymeacoffee.com/rube">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=rube&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"
-       alt="Buy Me A Coffee">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+       alt="Buy Me A Coffee" 
+       style="height: 60px !important;width: 217px !important;">
 </a>
 
 ## Featured Projects
