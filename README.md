@@ -39,7 +39,9 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ## <h2>🔗 Support:</h2>
 
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy me a coffee" width="350">
+<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
 
 ## Featured Projects
 Working on Differentially Private Threat Intelligence Analytics at Scale
