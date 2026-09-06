@@ -10,7 +10,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 - 🔭 I'm currently working on **Differentially Private Threat Intelligence Analytics at Scale**
 
-- 🌱 I'm currently learning **Agentic AI Systems, Python, and Cloud Technologies**
+- 🌱 I'm currently learning **Agentic AI Systems, and Cloud Technologies**
 
 - 💬 Ask me about **AI, Applications, Backend Development, and Technology**
 
