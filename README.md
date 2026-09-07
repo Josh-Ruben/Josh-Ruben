@@ -42,7 +42,7 @@ Welcome! I'm a software developer and website designer who loves building useful
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vibe%20Coder-000000?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe%20Coder-FF69B4?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ## <h2> Support</h2>
