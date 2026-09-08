@@ -18,7 +18,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 - ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**
 ---
-## 🔗 Languages and Tools
+## 🔗 Languages and Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
