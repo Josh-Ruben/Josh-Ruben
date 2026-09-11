@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Josh Ruben
+# Hello.. I'm Josh Ruben
 
 Welcome! I'm a software developer and website designer who loves building useful tools and learning new tech. This README is a quick snapshot of what I work on, the languages I use, and how to get in touch.
 
