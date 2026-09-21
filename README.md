@@ -5,20 +5,20 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ---
 
-## About Me
+👨‍💻 About Me
 
-- 👨‍💻 I'm an IT student passionate about **Artificial Intelligence, Software Development, and Cybersecurity**
+Focused on building AI-driven, scalable, and secure software systems with a strong interest in emerging technologies and practical problem-solving.
 
-- 🔭 I'm currently working on **Differentially Private Threat Intelligence Analytics at Scale**
-
-- 🌱 Currently learning **Agentic AI Systems, and Cloud Technologies**
-
-- 💬 Ask me about **AI, Applications, Backend Development, and Technology**
-
-- 📫 Reach me at **joshruben16@gmail.com**
-
-- ⚡ Fun fact: I enjoy **traveling, long drives, exploring technology, and building new ideas**
----
+* 🔬 Developed Differentially Private Threat Intelligence Analytics at Scale
+* 🤖 Exploring Artificial Intelligence, Agentic AI, and Machine Learning
+* ☁️ Building knowledge in Cloud Technologies, Backend Development, and Distributed Systems
+* 🔐 Exploring Cybersecurity, Threat Intelligence, and Privacy-Preserving Computing
+* 💻 Developing applications using Python, Java, C#, SQL, and modern web technologies
+* 🧠 Strengthening expertise in Data Structures, Algorithms, System Design, and Software Engineering
+* 🚀 Building and experimenting with AI-powered applications and developer tools
+* 🤝 Open to Open Source, technical collaborations, internships, and innovative projects
+* 📫 joshruben16@gmail.com
+* ⚡ Interested in technology, innovation, travel, and building new ideas
 ## 🔗 Languages and Tools:
 
 <p align="left">
