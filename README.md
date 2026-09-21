@@ -5,7 +5,7 @@ Welcome! I'm a software developer and website designer who loves building useful
 
 ---
 
-##👨‍💻 About Me
+👨‍💻 About Me
 
 Focused on building AI-driven, scalable, and secure software systems with a strong interest in emerging technologies and practical problem-solving.
 
@@ -18,7 +18,7 @@ Focused on building AI-driven, scalable, and secure software systems with a stro
 * 🚀 Building and experimenting with AI-powered applications and developer tools
 * 🤝 Open to Open Source, technical collaborations, internships, and innovative projects
 * 📫 joshruben16@gmail.com
-* ⚡ Interested in technology, innovation, travel, and building new ideas##
+* ⚡ Interested in technology, innovation, travel, and building new ideas
 ## 🔗 Languages and Tools:
 
 <p align="left">
