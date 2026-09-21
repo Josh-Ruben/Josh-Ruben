@@ -54,8 +54,11 @@ Focused on building AI-driven, scalable, and secure software systems with a stro
        style="height: 60px !important;width: 217px !important;">
 </a>
 
-## Featured Projects
-Working on Differentially Private Threat Intelligence Analytics at Scale
+## ## Featured Projects
+
+### 🔐 Differentially Private Threat Intelligence Analytics at Scale
+
+A privacy-preserving threat intelligence analytics project focused on analyzing security data at scale while protecting sensitive information through differential privacy techniques.
 ---
 ## Certificate 
 * Google Data Analytics – Foundations: Data, Data, Everywhere
