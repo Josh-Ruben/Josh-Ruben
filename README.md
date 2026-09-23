@@ -1,24 +1,17 @@
-# Hello everyone 
-**I'm Josh Ruben**
+## Hello everyone
 
-Welcome! I'm a software developer and website designer who loves building useful tools and learning new tech. This README is a quick snapshot of what I work on, the languages I use, and how to get in touch.
+## A passionate developer
 
----
+**Focused on building AI-driven, scalable, and secure software systems with a strong interest in emerging technologies and practical problem-solving.**
 
-👨‍💻 About Me
+* **🤖 Exploring Artificial Intelligence, Agentic AI, and Machine Learning**
+* **☁️ Building knowledge in Cloud Technologies, Backend Development, and Distributed Systems**
+* **💻 Developing applications using Python, Java, C#, SQL, and modern web technologies**
+* **🧠 Strengthening expertise in Data Structures, Algorithms, System Design, and Software Engineering**
+* **🚀 Building and experimenting with AI-powered applications and developer tools**
 
-Focused on building AI-driven, scalable, and secure software systems with a strong interest in emerging technologies and practical problem-solving.
-
-* 🔬 Developed Differentially Private Threat Intelligence Analytics at Scale
-* 🤖 Exploring Artificial Intelligence, Agentic AI, and Machine Learning
-* ☁️ Building knowledge in Cloud Technologies, Backend Development, and Distributed Systems
-* 🔐 Exploring Cybersecurity, Threat Intelligence, and Privacy-Preserving Computing
-* 💻 Developing applications using Python, Java, C#, SQL, and modern web technologies
-* 🧠 Strengthening expertise in Data Structures, Algorithms, System Design, and Software Engineering
-* 🚀 Building and experimenting with AI-powered applications and developer tools
-* 🤝 Open to Open Source, technical collaborations, internships, and innovative projects
 * 📫 joshruben16@gmail.com
-* ⚡ Interested in technology, innovation, travel, and building new ideas.
+  
 ## 🔗 Languages and Tools:
 
 <p align="left">
@@ -54,12 +47,6 @@ Focused on building AI-driven, scalable, and secure software systems with a stro
        style="height: 60px !important;width: 217px !important;">
 </a>
 
-## ## Featured Projects
-
-### 🔐 Differentially Private Threat Intelligence Analytics at Scale
-
-A privacy-preserving threat intelligence analytics project focused on analyzing security data at scale while protecting sensitive information through differential privacy techniques.
----
 ## Certificate 
 * Google Data Analytics – Foundations: Data, Data, Everywhere
 * AWS Generative AI for Developers
